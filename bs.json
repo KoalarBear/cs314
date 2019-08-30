@@ -44,4 +44,5 @@
     ,{"id": "jcfilben", "name":"Moonlight Pizza & Brewery", "municipality":"Salida", "latitude":"38.5348", "longitude":"-105.9934", "altitude":"2154"}
     ,{"id": "mingz", "name":"Yampa Valley Brewing Company", "municipality":"Hayden", "latitude":"40.50", "longitude":"-107.26", "altitude":"1934"}
     ,{"id": "mkzzz103", "name":"Two22 Brew", "municipality":"Centennial", "latitude":"39.3807", "longitude":"-104.4533", "altitude":"5798"}
+    ,{"id": "mkzzz103", "name":"Two22 Brew", "municipality":"Centennial", "latitude":"39.3807", "longitude":"-104.4533", "altitude":"5768"}
 ]
